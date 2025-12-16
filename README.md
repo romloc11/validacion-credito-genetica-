@@ -10,7 +10,7 @@ Este script de Python automatiza la auditoría y validación de clientes para el
 ---
 
 ##  Tecnologías Utilizadas
-* **Python 3.x**
+* **Python**
 * **Pandas:** Procesamiento, limpieza y unión de dataframes.
 * **NumPy:** Operaciones lógicas y manejo de valores nulos.
 * **Pathlib:** Gestión profesional de rutas de archivos.
